@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mobile/static/css/main.df56128b.css",
-    "main.js": "/mobile/static/js/main.4b93d2d7.js",
+    "main.js": "/mobile/static/js/main.b3b1a55e.js",
     "static/media/background-gradient-web.png": "/mobile/static/media/background-gradient-web.1cb911c3e85700339a37.png",
     "index.html": "/mobile/index.html",
     "main.df56128b.css.map": "/mobile/static/css/main.df56128b.css.map",
-    "main.4b93d2d7.js.map": "/mobile/static/js/main.4b93d2d7.js.map"
+    "main.b3b1a55e.js.map": "/mobile/static/js/main.b3b1a55e.js.map"
   },
   "entrypoints": [
     "static/css/main.df56128b.css",
-    "static/js/main.4b93d2d7.js"
+    "static/js/main.b3b1a55e.js"
   ]
 }
